@@ -26,5 +26,4 @@ with open("Galatasaray.txt",'a',encoding='UTF-8')as galatasaray :
     for i in galatasaraylılar :
         galatasaray.write(i+'\n')
 
-#   C:/Users/kadir/OneDrive/Masaüstü/
 
